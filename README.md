@@ -1,8 +1,10 @@
 # Dig-IT
  Dig@IT is a a multi-platform, scalable virtual reality tool able to foster archaeological data analysis, interpretation, and curation in a realistic and highly interactive virtual environment
  
+
 CREDITS
-Unity application and Mixed VR scripts
+
+Unity application and Mixed VR scripts v2.0.0 from https://gitlab.oit.duke.edu/djzielin/catalhoyuk-dig/-/tree/master
 
 Duke University
 
@@ -21,6 +23,9 @@ Student Developer:
 Emmanuel Shiferaw
 
 ---
+
+Unity application and Mixed VR scripts v3.0.0
+
 University of California, Merced
 
 Principal Investigator:
