@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 5476aa8001be1da458ecdd584d8cbd37
+timeCreated: 1439938314
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: basket
+    100002: beam 1
+    100004: beam 1.1
+    100006: beam 2
+    100008: beam 2.1
+    100010: beam 2.2
+    100012: Beams
+    100014: Bench
+    100016: Capsule
+    100018: Capsule.1
+    100020: Capsule.2
+    100022: ceiling beams
+    100024: ceiling_beam_1
+    100026: ceiling_beam_1.1
+    100028: ceiling_beam_1.2
+    100030: ceiling_beam_1.3
+    100032: ceiling_beam_1.4
+    100034: ceiling_beam_1.5
+    100036: ceiling_beam_1.6
+    100038: ceiling_beam_1.7
+    100040: ceiling_beam_1.8
+    100042: Central Platform
+    100044: clay balls
+    100046: Cylinder
+    100048: Cylinder.1
+    100050: Cylinder.1.1
+    100052: Cylinder.1.2
+    100054: Cylinder.1.3
+    100056: Cylinder.1.4
+    100058: Cylinder.2
+    100060: Cylinder.3
+    100062: Cylinder.4
+    100064: Cylinder.5
+    100066: E platform
+    100068: //RootNode
+    100070: firepit
+    100072: grain
+    100074: grain_tub
+    100076: grinder
+    100078: Head
+    100080: Head.1
+    100082: Head.2
+    100084: Heads
+    100086: Ladder
+    100088: Ledge
+    100090: left side
+    100092: Lights (disabled)
+    100094: Mat
+    100096: N platform
+    100098: NE platform
+    100100: outdoors_grass
+    100102: Oven
+    100104: plaster_cover
+    100106: plaster_exit_border
+    100108: plaster_moulding
+    100110: plaster_moulding.1
+    100112: plaster_moulding.2
+    100114: pottery_01
+    100116: pottery_02
+    100118: pottery_02.1
+    100120: quern stone
+    100122: reed_ceiling
+    100124: right side
+    100126: S platform
+    100128: S platform2
+    100130: step
+    100132: step.1
+    100134: step.2
+    100136: step.3
+    100138: step.4
+    100140: step.5
+    100142: step.6
+    100144: step.7
+    100146: step.8
+    100148: Storage walls
+    100150: Sweep
+    100152: Sweep.1
+    100154: Sweep.2
+    100156: Sweep.2.1
+    100158: Sweep.2.2
+    100160: Sweep.3
+    100162: WALL inside north
+    100164: WALLS inside east
+    100166: WALLS inside east.1
+    100168: WALLS inside east.2
+    100170: WALLS perimiter outside
+    100172: WALLS perimiter.2
+    100174: WALLS perimiterinside
+    400000: basket
+    400002: beam 1
+    400004: beam 1.1
+    400006: beam 2
+    400008: beam 2.1
+    400010: beam 2.2
+    400012: Beams
+    400014: Bench
+    400016: Capsule
+    400018: Capsule.1
+    400020: Capsule.2
+    400022: ceiling beams
+    400024: ceiling_beam_1
+    400026: ceiling_beam_1.1
+    400028: ceiling_beam_1.2
+    400030: ceiling_beam_1.3
+    400032: ceiling_beam_1.4
+    400034: ceiling_beam_1.5
+    400036: ceiling_beam_1.6
+    400038: ceiling_beam_1.7
+    400040: ceiling_beam_1.8
+    400042: Central Platform
+    400044: clay balls
+    400046: Cylinder
+    400048: Cylinder.1
+    400050: Cylinder.1.1
+    400052: Cylinder.1.2
+    400054: Cylinder.1.3
+    400056: Cylinder.1.4
+    400058: Cylinder.2
+    400060: Cylinder.3
+    400062: Cylinder.4
+    400064: Cylinder.5
+    400066: E platform
+    400068: //RootNode
+    400070: firepit
+    400072: grain
+    400074: grain_tub
+    400076: grinder
+    400078: Head
+    400080: Head.1
+    400082: Head.2
+    400084: Heads
+    400086: Ladder
+    400088: Ledge
+    400090: left side
+    400092: Lights (disabled)
+    400094: Mat
+    400096: N platform
+    400098: NE platform
+    400100: outdoors_grass
+    400102: Oven
+    400104: plaster_cover
+    400106: plaster_exit_border
+    400108: plaster_moulding
+    400110: plaster_moulding.1
+    400112: plaster_moulding.2
+    400114: pottery_01
+    400116: pottery_02
+    400118: pottery_02.1
+    400120: quern stone
+    400122: reed_ceiling
+    400124: right side
+    400126: S platform
+    400128: S platform2
+    400130: step
+    400132: step.1
+    400134: step.2
+    400136: step.3
+    400138: step.4
+    400140: step.5
+    400142: step.6
+    400144: step.7
+    400146: step.8
+    400148: Storage walls
+    400150: Sweep
+    400152: Sweep.1
+    400154: Sweep.2
+    400156: Sweep.2.1
+    400158: Sweep.2.2
+    400160: Sweep.3
+    400162: WALL inside north
+    400164: WALLS inside east
+    400166: WALLS inside east.1
+    400168: WALLS inside east.2
+    400170: WALLS perimiter outside
+    400172: WALLS perimiter.2
+    400174: WALLS perimiterinside
+    2300000: basket
+    2300002: Bench
+    2300004: Capsule
+    2300006: Capsule.1
+    2300008: Capsule.2
+    2300010: ceiling_beam_1
+    2300012: ceiling_beam_1.1
+    2300014: ceiling_beam_1.2
+    2300016: ceiling_beam_1.3
+    2300018: ceiling_beam_1.4
+    2300020: ceiling_beam_1.5
+    2300022: ceiling_beam_1.6
+    2300024: ceiling_beam_1.7
+    2300026: ceiling_beam_1.8
+    2300028: Central Platform
+    2300030: clay balls
+    2300032: Cylinder
+    2300034: Cylinder.1
+    2300036: Cylinder.1.1
+    2300038: Cylinder.1.2
+    2300040: Cylinder.1.3
+    2300042: Cylinder.1.4
+    2300044: Cylinder.2
+    2300046: Cylinder.3
+    2300048: Cylinder.4
+    2300050: Cylinder.5
+    2300052: E platform
+    2300054: firepit
+    2300056: grain
+    2300058: grain_tub
+    2300060: grinder
+    2300062: Ledge
+    2300064: left side
+    2300066: Mat
+    2300068: N platform
+    2300070: NE platform
+    2300072: outdoors_grass
+    2300074: Oven
+    2300076: plaster_cover
+    2300078: plaster_exit_border
+    2300080: plaster_moulding
+    2300082: plaster_moulding.1
+    2300084: plaster_moulding.2
+    2300086: pottery_01
+    2300088: pottery_02
+    2300090: pottery_02.1
+    2300092: quern stone
+    2300094: reed_ceiling
+    2300096: right side
+    2300098: S platform
+    2300100: S platform2
+    2300102: step
+    2300104: step.1
+    2300106: step.2
+    2300108: step.3
+    2300110: step.4
+    2300112: step.5
+    2300114: step.6
+    2300116: step.7
+    2300118: step.8
+    2300120: Storage walls
+    2300122: Sweep
+    2300124: Sweep.1
+    2300126: Sweep.2
+    2300128: Sweep.2.1
+    2300130: Sweep.2.2
+    2300132: Sweep.3
+    2300134: WALL inside north
+    2300136: WALLS inside east
+    2300138: WALLS inside east.1
+    2300140: WALLS inside east.2
+    2300142: WALLS perimiter outside
+    2300144: WALLS perimiter.2
+    2300146: WALLS perimiterinside
+    3300000: basket
+    3300002: Bench
+    3300004: Capsule
+    3300006: Capsule.1
+    3300008: Capsule.2
+    3300010: ceiling_beam_1
+    3300012: ceiling_beam_1.1
+    3300014: ceiling_beam_1.2
+    3300016: ceiling_beam_1.3
+    3300018: ceiling_beam_1.4
+    3300020: ceiling_beam_1.5
+    3300022: ceiling_beam_1.6
+    3300024: ceiling_beam_1.7
+    3300026: ceiling_beam_1.8
+    3300028: Central Platform
+    3300030: clay balls
+    3300032: Cylinder
+    3300034: Cylinder.1
+    3300036: Cylinder.1.1
+    3300038: Cylinder.1.2
+    3300040: Cylinder.1.3
+    3300042: Cylinder.1.4
+    3300044: Cylinder.2
+    3300046: Cylinder.3
+    3300048: Cylinder.4
+    3300050: Cylinder.5
+    3300052: E platform
+    3300054: firepit
+    3300056: grain
+    3300058: grain_tub
+    3300060: grinder
+    3300062: Ledge
+    3300064: left side
+    3300066: Mat
+    3300068: N platform
+    3300070: NE platform
+    3300072: outdoors_grass
+    3300074: Oven
+    3300076: plaster_cover
+    3300078: plaster_exit_border
+    3300080: plaster_moulding
+    3300082: plaster_moulding.1
+    3300084: plaster_moulding.2
+    3300086: pottery_01
+    3300088: pottery_02
+    3300090: pottery_02.1
+    3300092: quern stone
+    3300094: reed_ceiling
+    3300096: right side
+    3300098: S platform
+    3300100: S platform2
+    3300102: step
+    3300104: step.1
+    3300106: step.2
+    3300108: step.3
+    3300110: step.4
+    3300112: step.5
+    3300114: step.6
+    3300116: step.7
+    3300118: step.8
+    3300120: Storage walls
+    3300122: Sweep
+    3300124: Sweep.1
+    3300126: Sweep.2
+    3300128: Sweep.2.1
+    3300130: Sweep.2.2
+    3300132: Sweep.3
+    3300134: WALL inside north
+    3300136: WALLS inside east
+    3300138: WALLS inside east.1
+    3300140: WALLS inside east.2
+    3300142: WALLS perimiter outside
+    3300144: WALLS perimiter.2
+    3300146: WALLS perimiterinside
+    4300000: WALLS inside east.2
+    4300002: WALLS inside east
+    4300004: WALLS inside east.1
+    4300006: WALL inside north
+    4300008: WALLS perimiter.2
+    4300010: WALLS perimiter outside
+    4300012: WALLS perimiterinside
+    4300014: Storage walls
+    4300016: N platform
+    4300018: NE platform
+    4300020: E platform
+    4300022: S platform
+    4300024: S platform2
+    4300026: Central Platform
+    4300028: Bench
+    4300030: Ledge
+    4300032: plaster_moulding
+    4300034: plaster_moulding.1
+    4300036: plaster_moulding.2
+    4300038: ceiling_beam_1
+    4300040: ceiling_beam_1.2
+    4300042: ceiling_beam_1.1
+    4300044: ceiling_beam_1.3
+    4300046: ceiling_beam_1.6
+    4300048: ceiling_beam_1.7
+    4300050: ceiling_beam_1.8
+    4300052: ceiling_beam_1.4
+    4300054: ceiling_beam_1.5
+    4300056: clay balls
+    4300058: Cylinder.1
+    4300060: Cylinder
+    4300062: Cylinder.1.1
+    4300064: Cylinder.2
+    4300066: Cylinder.1.2
+    4300068: Cylinder.3
+    4300070: Cylinder.1.3
+    4300072: Cylinder.4
+    4300074: Cylinder.1.4
+    4300076: Cylinder.5
+    4300078: grinder
+    4300080: Sweep
+    4300082: Sweep.2
+    4300084: Capsule
+    4300086: Sweep.1
+    4300088: Sweep.2.1
+    4300090: Capsule.1
+    4300092: Sweep.3
+    4300094: Sweep.2.2
+    4300096: Capsule.2
+    4300098: Oven
+    4300100: step.5
+    4300102: step.3
+    4300104: step.4
+    4300106: step.2
+    4300108: step
+    4300110: step.1
+    4300112: step.8
+    4300114: step.7
+    4300116: step.6
+    4300118: left side
+    4300120: right side
+    4300122: Mat
+    4300124: grain_tub
+    4300126: quern stone
+    4300128: grain
+    4300130: firepit
+    4300132: basket
+    4300134: pottery_02
+    4300136: pottery_02.1
+    4300138: pottery_01
+    4300140: plaster_exit_border
+    4300142: outdoors_grass
+    4300144: reed_ceiling
+    4300146: plaster_cover
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
